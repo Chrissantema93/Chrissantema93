@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Chrissantema93
 - 👀 I’m interested in Data Engineering/Cloud (Azure)/Web development
-- 🌱 I’m currently learning to write better Python code by reading Fluent Python and cloud concepts through working on getting my AZ-204,DP-203 and AZ-400 Certifications 
-- 💞️ I’m looking to collaborate on Python/Web Development projects
-- 📫 How to reach me: Here!
 
 <!---
 Chrissantema93/Chrissantema93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
